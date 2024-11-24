@@ -1,0 +1,6 @@
+projectKey=PBO_Praktikum-1O
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=PBO_Praktikum-1O
+ceTaskId=1dbccac8-678b-4361-8e2e-b0138f8ce185
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1dbccac8-678b-4361-8e2e-b0138f8ce185
